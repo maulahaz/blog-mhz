@@ -1,5 +1,5 @@
 ---
-title: Enhancing Safety with Faith: The Power of Saying 'Bismillah' for Muslims
+title: Enhancing Safety with Faith, The Power of Saying 'Bismillah' for Muslims
 author: your name
 pubDatetime: 2024-11-13T19:15:00Z
 slug: enhancing-safety-with-faith-the-power-of-saying-bismillah-for-muslims
