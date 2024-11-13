@@ -35,7 +35,7 @@ But it's not about safety only; instead, it's all about how one becomes precauti
 ### Rewards and Consequences
 The beauty of saying "Bismillah" is that it reminds us our actions are of grave importance. When done properly, safely, and responsibly, we're not just avoiding harms but we're earning rewards from Allah as well. But the moment one skips safety, acts carelessly, and passes rules, one is close enough to harming oneself both physically and spiritually. Thus, we have a deal both ways: we look after safety, and thereby we do not only what is right for ourselves but also reap rewards in the process.
 
-### More Than Just Personal Safety
+## More Than Just Personal Safety
 
 It is very easy to think that saying "Bismillah" is just for your protection. In Islam, it is not all about you. Saying "Bismillah" before embarking on anything is also one assured way of ensuring the safety of your family and environment as well. Your actions radiate from how you drive your car to how you treat your coworkers; the aim is to make sure that those around you stay safe, too. When you utter the name of Allah, you are ensuring that your surroundings remain peaceful, safe, and secure.
 
