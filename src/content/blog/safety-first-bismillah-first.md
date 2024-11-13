@@ -13,8 +13,6 @@ description: Bismillah, it's very important.
 canonicalURL: ""
 ---
 
-"Safety First, Bismillah First"
-
 You know, every company these days starts their meetings with the same old slogan: "Safety first." And you know what? They're absolutely right. Safety should be the top priority for any organization - or really, for all of us in our daily lives.
 
 But did you know that as Muslims, we've got our own version of "safety first"? It's called saying "Bismillah" - which means "In the name of Allah" in Arabic. Now, I know what you're thinking: "What's the connection between safety and saying some Arabic phrase?" Well, let me tell you, there's a strong link there.
