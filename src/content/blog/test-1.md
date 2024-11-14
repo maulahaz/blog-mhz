@@ -14,4 +14,8 @@ description: This is the example description of the example post-1.
 canonicalURL: ""
 ---
 
+Here are some recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+
+## Table of contents
+
 # Title of Post-1
