@@ -6,7 +6,7 @@ slug: surfing-highlight
 featured: true
 draft: false
 tags:
-  - orderan
+  - surfing
 ogImage: ""
 description: Surfing Highlight Anchor
 canonicalURL: ""
