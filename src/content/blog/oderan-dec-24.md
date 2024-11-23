@@ -2,7 +2,7 @@
 title: Orderan Dec-24
 author: MHz
 pubDatetime: 2024-11-13T19:20:00Z
-slug: oderan-dec-24
+slug: oderan=dec-24
 featured: true
 draft: false
 tags:
