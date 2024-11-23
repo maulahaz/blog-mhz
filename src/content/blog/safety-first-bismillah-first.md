@@ -6,7 +6,7 @@ slug: safety-first-bismillah-first
 featured: true
 draft: false
 tags:
-  - bismmillah
+  - bismillah
   - safety
 ogImage: ""
 description: Bismillah, it's very important.
