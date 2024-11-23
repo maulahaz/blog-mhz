@@ -1,15 +1,16 @@
 # Project : [mhz-blog](https://blog-mhz.vercel.app/)
 ***************************************************************
-Blog using Astro.js
+My Blog using Astro JS
 
 
 ## Notes:
 - Started at: Week-1 of Dec24
-- Astro v.4.7.0
-- Backend: xx
-- DB: xx
-- API: xx
+- Machine: Astro v.4.7.0
+- Web Deploy: vercel.com
 - Packages: Tailwind, Typescript
+- Backend: NA
+- DB: NA
+- API: NA
 
 
 ## References:
@@ -20,3 +21,4 @@ Blog using Astro.js
 - Unsplash Images: https://source.unsplash.com/[IMAGE ID]
 - Color Ref: [Colors](https://coolors.co/palettes/trending)
 - Svg Icon Collection: [SVG Icons](http://svgrepo.com)
+- Githun Emoji Collection: [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
