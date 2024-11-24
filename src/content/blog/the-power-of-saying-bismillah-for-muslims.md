@@ -14,6 +14,8 @@ description: The Power of Saying 'Bismillah' for Muslims
 canonicalURL: ""
 ---
 
+## Table of contents
+
 You probably might have heard the slogan "safety first" in workplaces, meetings, or even just in your everyday life. An easy thought, yet powerful. Before one embarks on any task, let safety be number one. It is all about preserving one's self and others. What if I told you that, as a Muslim, we have something similar, something even deeper, that ties safety to our faith?
 
 *It is this easy, yet powerful phrase: "Bismillah" - which means "In the name of Allah."*
