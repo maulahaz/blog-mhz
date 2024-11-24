@@ -1,9 +1,11 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "It's Me"
 ---
 
-# **It's Me**
+# Bismillah
+### Assalaamu'alaykum
+
 Hi... I'm Hazmi a.k.a Abu Ahyar, I'm just an ordinary person who really enjoys coding.<br>
 My education background is in Analytical Chemistry.<br>
 I acquired my IT knowledges from Youtube, Stack Overflow, and various coding forums and communities.<br>

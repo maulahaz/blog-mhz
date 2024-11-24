@@ -9,6 +9,7 @@ import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SITE, SOCIALS } from "@config";
+import AboutMe from '@components/AboutMe.astro';
 
 const posts = await getCollection("blog");
 
@@ -52,6 +53,8 @@ I enjoy sharing and collaborating with others, as it contributes to continuous i
 <br>Fullstack Web Development using PHP (Codeigniter and Laravel)
 <br>Advance level in Ms. Office (Excel and Access)<br>
 </p>
+
+<AboutMe />
       <!-- <p>
         Read the blog posts or check
         <LinkButton
