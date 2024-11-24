@@ -11,6 +11,7 @@ My Blog using Astro JS
 - Backend: NA
 - DB: NA
 - API: NA
+- Template by: [Astro Paper](https://github.com/satnaing/astro-paper)
 
 
 ## References:
