@@ -9,7 +9,9 @@ import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SITE, SOCIALS } from "@config";
-import AboutMe from '@components/AboutMe.astro';
+//
+import AboutMe from '@components/about-me.html';
+
 
 const posts = await getCollection("blog");
 
@@ -18,12 +20,14 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
 const socialCount = SOCIALS.filter(social => social.active).length;
+
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
+      <p class="font-semibold">Bismillah. <br>Assalaamu'alaykum...</p>
       <h1>It's Me</h1>
       <a
         target="_blank"
@@ -42,7 +46,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <span class="sr-only">RSS Feed</span> -->
       </a>
 
-<p>Hi... I&#39;m Maulana Hazmi (shortened to maulahaz a.k.a Abu Ahyar), I&#39;m just an ordinary person who really enjoys coding.<br>
+<!-- <p>Hi... I&#39;m Maulana Hazmi (shortened to maulahaz a.k.a Abu Ahyar), I&#39;m just an ordinary person who really enjoys coding.<br>
 My education background is in Analytical Chemistry.<br>
 I acquired my IT knowledges from Youtube, Stack Overflow, and various coding forums and communities.<br>
 Consistent practice is my key to strengthening my skills.<br>
@@ -52,7 +56,7 @@ I enjoy sharing and collaborating with others, as it contributes to continuous i
 <p>Android Development using Flutter 
 <br>Fullstack Web Development using PHP (Codeigniter and Laravel)
 <br>Advance level in Ms. Office (Excel and Access)<br>
-</p>
+</p> -->
 
 <AboutMe />
       <!-- <p>

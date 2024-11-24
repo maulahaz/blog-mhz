@@ -21,4 +21,5 @@ My Blog using Astro JS
 - Unsplash Images: https://source.unsplash.com/[IMAGE ID]
 - Color Ref: [Colors](https://coolors.co/palettes/trending)
 - Svg Icon Collection: [SVG Icons](http://svgrepo.com)
-- Githun Emoji Collection: [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
+- Github Emoji Collection (for Markdown): [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
+- Emoji Collection (for HTML): [Emoji](https://html-css-js.com/html/character-codes/)
