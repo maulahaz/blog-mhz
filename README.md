@@ -5,12 +5,12 @@ My Blog using Astro JS
 
 ## Notes:
 - Started at: Week-1 of Dec24
-- Machine: Astro v.4.7.0
-- Web Deploy: vercel.com
+- Frontend: Astro v.4.16
 - Packages: Tailwind, Typescript
 - Backend: NA
 - DB: NA
 - API: NA
+- Web Deploy: vercel.com
 - Template by: [Astro Paper](https://github.com/satnaing/astro-paper)
 
 
