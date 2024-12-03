@@ -1,14 +1,14 @@
 ---
-title: My Laravel Practices
+title: My Laravel-Admin Practices
 author: MHz
 pubDatetime: 2024-12-02T20:20:00Z
-slug: my-laravel-practices
+slug: my-laravel-admin-practices
 featured: true
 draft: false
 tags:
   - laravel
 ogImage: ""
-description: Some notes from My Laravel Experience
+description: Some notes from My Laravel-Admin Experience
 canonicalURL: ""
 ---
 
