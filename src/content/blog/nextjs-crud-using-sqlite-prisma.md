@@ -1,7 +1,7 @@
 ---
 title: Next JS CRUD Using Sqlite and Prisma
 author: MHz
-pubDatetime: 2024-11-13T19:20:00Z
+pubDatetime: 2024-12-05T09:20:00Z
 slug: nextjs-crud-using-sqlite-prisma
 featured: true
 draft: false
