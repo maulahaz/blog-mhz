@@ -13,7 +13,7 @@ ogImage: ""
 description: An Alternative way to do CRUD in Next JS 
 canonicalURL: ""
 ---
-# Next JS CRUD
+
 #### Using Sqlite and Prisma
 <br>
 
