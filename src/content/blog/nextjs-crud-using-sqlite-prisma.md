@@ -14,8 +14,6 @@ description: An Alternative way to do CRUD in Next JS
 canonicalURL: ""
 ---
 
-## Table of contents
-
 #### Using Sqlite and Prisma
 <br>
 
