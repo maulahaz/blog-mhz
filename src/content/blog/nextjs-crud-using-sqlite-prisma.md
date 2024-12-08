@@ -14,9 +14,6 @@ description: An Alternative way to do CRUD in Next JS
 canonicalURL: ""
 ---
 
-#### Using Sqlite and Prisma
-<br>
-
 #### 1. Install Dependencies
 ```
  //--Next, install Prisma and SQLite3:
