@@ -2,7 +2,7 @@
 title: Integrate Supabase with a PWA on Vercel
 author: MHz
 pubDatetime: 2024-12-08T09:25:00Z
-slug: Integrate-Supabase-with-a-PWA-on-Vercel
+slug: integrate-supabase-with-a-pwa-on-vercel
 featured: true
 draft: false
 tags:
