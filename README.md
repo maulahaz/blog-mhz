@@ -2,6 +2,9 @@
 ***************************************************************
 My Blog using Astro JS
 
+- The post content are in: 
+> src/content/blog/
+
 
 ## Notes:
 - Started at: Week-1 of Dec24
