@@ -20,11 +20,13 @@ canonicalURL: ""
 2. Type in Search box: DeepSeek R1 0528 (free)
 3. Goto tab API and Click button "Create API Key"
 4. Create a API Name (ex. api-deepseek-r1)
-5. Click Create API Key, then it will generate API Key (ex. 1234asdfg)
+5. Click Create API Key, then it will generate API Key (ex. 649-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)
 6. Note down API Name and API Key
-7. Copy paste this Sample code and API for Deepseek R1 0528
+7. For trial, let's make AI Chat App through v0.dev, Lovable.dev or others.
+- Enter this prompt: "Build an AI Chat App and allow me to key in Deepseek API Key. Here is the Fetch example: [copy-paste the fetch code below]"
+- When the Apps built, copy-paste the created API Key above (Remove MHZ code -- red)
 
-## Code For Typescript:
+## Fetch Code For Typescript:
 ```
 fetch("https://openrouter.ai/api/v1/chat/completions", {
   method: "POST",
@@ -45,7 +47,7 @@ fetch("https://openrouter.ai/api/v1/chat/completions", {
   })
 });
 ``` 
-## Code For Python:
+## Fetch Code For Python:
 ```
 import requests
 import json
