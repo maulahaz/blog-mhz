@@ -15,7 +15,7 @@ description: Adding Bootstrap Pagination in Laravel 10
 canonicalURL: ""
 ---
 
-# Adding pagination in Laravel
+### Adding pagination in Laravel
 To add Pagination in the Penduduk index view, we need to modify both the controller and the view. We'll set it to display 20 rows per page. Here's how to do it:
 1. First, let's update the index method in the PendudukController:
 ```
